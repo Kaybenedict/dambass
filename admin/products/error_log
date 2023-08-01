@@ -1,0 +1,27 @@
+[20-Oct-2022 22:53:52 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /home/dambassc/public_html/admin/products/about.php on line 1
+[20-Oct-2022 22:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function system() in /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:112
+Stack trace:
+#0 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#5 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#6 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#7 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2): eval()
+#8 /home/dambassc/public_html/admin/products/403.php(8): eval()
+#9 {main}
+  thrown in /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 112
+[20-Oct-2022 22:54:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function system() in /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code:112
+Stack trace:
+#0 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#1 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#2 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#3 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#4 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1): eval()
+#5 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1): eval()
+#6 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1): eval()
+#7 /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2): eval()
+#8 /home/dambassc/public_html/admin/products/403.php(8): eval()
+#9 {main}
+  thrown in /home/dambassc/public_html/admin/products/403.php(8) : eval()'d code(2) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code(1) : eval()'d code on line 112
